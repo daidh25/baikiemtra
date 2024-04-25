@@ -1,0 +1,14 @@
+D:\ASP\Asp.net\baiktra\baiktra\bin\Debug\net6.0\baiktra.exe
+D:\ASP\Asp.net\baiktra\baiktra\bin\Debug\net6.0\baiktra.deps.json
+D:\ASP\Asp.net\baiktra\baiktra\bin\Debug\net6.0\baiktra.runtimeconfig.json
+D:\ASP\Asp.net\baiktra\baiktra\bin\Debug\net6.0\baiktra.dll
+D:\ASP\Asp.net\baiktra\baiktra\bin\Debug\net6.0\baiktra.pdb
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\baiktra.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\baiktra.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\baiktra.AssemblyInfo.cs
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\baiktra.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\baiktra.dll
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\refint\baiktra.dll
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\baiktra.pdb
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\baiktra.genruntimeconfig.cache
+D:\ASP\Asp.net\baiktra\baiktra\obj\Debug\net6.0\ref\baiktra.dll
